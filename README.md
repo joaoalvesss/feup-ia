@@ -1,4 +1,4 @@
-# Artifical Inteligence
+# Artificial intelligence
 
 ## Project Grades
 
